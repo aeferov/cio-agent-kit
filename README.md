@@ -14,7 +14,7 @@
 | [`memory-starter-kit`](memory-starter-kit/) | Память между сессиями: записка следующей сессии, индекс, дословный реестр требований, хук со сверкой коммитов | [Про память](https://t.me/bender_CIO/8) |
 | [`now-stamp`](now-stamp/) | Штамп времени в каждой реплике — у модели нет часов | [Зачем здороваться с агентом](https://t.me/bender_CIO/12) |
 | [`content-critic`](content-critic/) | Строгая оценка чужого материала: балл и шесть осей | [Как читаю 38 каналов](https://t.me/bender_CIO/9) |
-| [`agent-model-guard`](agent-model-guard/) | Субагент не уедет на дорогой модели молча: хук требует явную `model` | [Про субагентов](https://t.me/bender_CIO) |
+| [`agent-model-guard`](agent-model-guard/) | Субагент не уедет на дорогой модели молча: хук требует явную `model` | [Про субагентов](https://t.me/bender_CIO/13) |
 
 ## Как этим пользоваться
 
